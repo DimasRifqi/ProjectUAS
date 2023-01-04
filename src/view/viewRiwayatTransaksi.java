@@ -2,7 +2,7 @@ package view;
 
 import controllers.RiwayatTransaksiController;
 
-public class viewRiwayatTransaksi 
+public class viewRiwayatTransaksi implements InterfaceMenu
 {
     private RiwayatTransaksiController Riwayat = new RiwayatTransaksiController();
 
